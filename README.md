@@ -37,6 +37,10 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Matematiğin Şifrelemedeki Gücü:Modüler Aritmetik](https://blog-devrimozcay.medium.com/matemati%C4%9Fin-%C5%9Fifrelemedeki-g%C3%BCc%C3%BC-mod%C3%BCler-aritmetik-953c49e0bda9?source=rss-336dae63dc55------2)
+- [Dive into Data Preprocessing in Data Mining&lpar;Veri Madenciliğinde Veri Ön İşleme’ye Dalış&rpar;](https://blog-devrimozcay.medium.com/dive-into-data-preprocessing-in-data-mining-veri-madencili%C4%9Finde-veri-%C3%B6n-i%CC%87%C5%9Flemeye-dal%C4%B1%C5%9F-859d933f968e?source=rss-336dae63dc55------2)
+- [RC4 Encryption Algorithm&lpar;RC4 Şifreleme Algoritması&rpar;](https://blog-devrimozcay.medium.com/rc4-encryption-algorithm-rc4-%C5%9Fifreleme-algoritmas%C4%B1-b08786efebed?source=rss-336dae63dc55------2)
+- [augmented reality with unity&lpar;unity ile arttırılmış gerçeklik&rpar;](https://blog-devrimozcay.medium.com/augmented-reality-with-unity-unity-ile-artt%C4%B1r%C4%B1lm%C4%B1%C5%9F-ger%C3%A7eklik-52db0211589a?source=rss-336dae63dc55------2)
 <!-- BLOG-POST-LIST:END -->
 
 
