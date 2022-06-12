@@ -6,7 +6,7 @@
 
 ### Hi there, I'm Devrim, :blush:
 
-## Java Developer  | Software | Data Science |
+## Java Developer  | Software | Data Science | Machine Learning | Image Procesing | Deep Learning
 
 <font color='red'>I am write blog in medium.I do research in the fields of data science, Matlab, Image processing, Deep learning.
 I participate in Data Science competitions.
