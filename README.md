@@ -9,19 +9,22 @@
 <font color='red'>I am write blog in medium. </font>
 
 ### Reach out to me
-[<img height="32" width="32" allign="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  />
+
+[<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  />
 ][LinkedIn]
-[<img height="32" width="32" allign="left" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" />
+[<img height="32" width="32" allign="left"   src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" />
 ][Kaggle]
-[<img height="32" width="32" allign="left" src="https://unpkg.com/simple-icons@v7/icons/academia.svg" />
+[<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/academia.svg" />
 ][Academia]
-[<img height="32" width="32" allign="left" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />
+[<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />
 ][Medium]
+ 
 <br />
 <br />
 <br />
 
 ### Tech I use
+<div style="display:"inline"">
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" widh="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" widh="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" widh="25" height="25">
@@ -30,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widh="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widh="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" widh="25" height="25">
-
+<div/>
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
