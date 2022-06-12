@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <br/>
-<div  font-family: "Times New Roman", Times, serif;">
+<div  font-family: "Times New Roman", Times, serif; font-size:20px;">
 
 ### Hi there, I'm Devrim, :blush:
 
