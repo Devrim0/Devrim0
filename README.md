@@ -6,7 +6,10 @@
 
 ## Java Developer  | Software | Data Science |
 
-<font color='red'>I am write blog in medium. </font>
+<font color='red'>I am write blog in medium.I do research in the fields of data science, Matlab, Image processing, Deep learning.
+I participate in Data Science competitions.
+I write code myself and develop it in java, python and matlab.
+I attended java bootcamp to get work. </font>
 
 ### Reach out to me
 
