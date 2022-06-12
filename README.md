@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<br/>
+<div   font-family: "Times New Roman", Times, serif;
+>
 
 ### Hi there, I'm Devrim, :blush:
 
@@ -61,7 +64,7 @@ I attended java bootcamp to get work. </font>
 
 </details>
 
-
+</div>
 
 [LinkedIn]: https://www.linkedin.com/in/devrim-%C3%B6z%C3%A7ay-a0b724200/
 [Kaggle]: https://www.kaggle.com/devrimzay
