@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://giphy.com/clips/thesimpsons-the-simpsons-season-6-episode-21-EwGk70Dh2LeyXh54VJ.gif">
+<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/hr2VpKgvmWuQ1X46kq/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div><a href="https://giphy.com/channel/anidom" rel="noopener noreferrer" style="clear:both;display:inline-block;height:36px;line-height:18px;margin:10px 0;padding:0 0 0 44px;position:relative" target="_blank"><img alt="" src="https://media1.giphy.com/avatars/AnimationOnFOX/dZdLGNSHKJGF/80h.png" style="height:36px;left:0;position:absolute;top:0;width:36px"/><div style="font-size:16px;font-weight:bold">AniDom</div><div style="font-size:14px;font-weight:normal">@anidom</div></a><p style="margin-top:6px"><strong>Band Kids | Season 33 Ep. 19 | THE SIMPSONS</strong><br/></p></div>
 
 </div>
 <br/>
