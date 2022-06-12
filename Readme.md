@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://giphy.com/clips/thesimpsons-the-simpsons-season-6-episode-21-EwGk70Dh2LeyXh54VJ">
+<img src="https://giphy.com/clips/thesimpsons-the-simpsons-season-6-episode-21-EwGk70Dh2LeyXh54VJ.gif">
 
 </div>
 <br/>
