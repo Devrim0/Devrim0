@@ -1,6 +1,4 @@
-<video>
-        <source src="https://giphy.com/embed/zcUFhVGmN55Tsb7FLW/video">
-    </video>
+<img src="https://c.tenor.com/P3pabwWIw54AAAAC/hustle-simpsons.gif">
 
 <br/>
 <div  font-family: "Times New Roman", Times, serif;">
