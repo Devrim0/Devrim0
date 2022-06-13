@@ -1,5 +1,14 @@
 <img src="https://c.tenor.com/P3pabwWIw54AAAAC/hustle-simpsons.gif" class="center">
 
+<style>
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+ <style/>
+
 <br/>
 <div  font-family: "Times New Roman", Times, serif;">
 
