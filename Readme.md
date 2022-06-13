@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/P3pabwWIw54AAAAC/hustle-simpsons.gif" style="text-align:"center;"">
+<img src="https://c.tenor.com/P3pabwWIw54AAAAC/hustle-simpsons.gif">
 
 <br/>
 <div  font-family: "Times New Roman", Times, serif;">
