@@ -18,7 +18,7 @@ I write code myself and develop it in java, python and matlab.
 I attended java bootcamp to get work. </font>
 
 ### Reach out to me
-
+<div style="margin:20px; ">
 [<img height="32" width="32" allign="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  />
 ][LinkedIn]
 [<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" />
@@ -27,7 +27,7 @@ I attended java bootcamp to get work. </font>
 ][Academia]
 [<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />
 ][Medium]
- 
+ <div/>
 <br />
 <br />
 <br />
