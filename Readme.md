@@ -18,7 +18,7 @@ I write code myself and develop it in java, python and matlab.
 I attended java bootcamp to get work. </font>
 
 ### Reach out to me
-<div style="margin:20px; ">
+
 [<img height="32" width="32" allign="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  />
 ][LinkedIn]
 [<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" />
@@ -27,13 +27,13 @@ I attended java bootcamp to get work. </font>
 ][Academia]
 [<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />
 ][Medium]
- <div/>
+
 <br />
 <br />
 <br />
 
 ### Tech I use
-<div style="display:"inline"">
+<div style="display:"inline" padding:"20px;">
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" widh="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" widh="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" widh="25" height="25">
