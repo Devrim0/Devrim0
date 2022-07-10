@@ -19,13 +19,13 @@ I attended java bootcamp to get work. </font>
 
 ### Reach out to me
 
-[<img style="height="32" width="32" allign="left"" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  />
+[<img height="32" width="32" allign="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  />
 ][LinkedIn]
-[<img style="height="32" width="32" allign="left""  src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" />
+[<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" />
 ][Kaggle]
-[<img style="height="32" width="32" allign="left""  src="https://unpkg.com/simple-icons@v7/icons/academia.svg" />
+[<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/academia.svg" />
 ][Academia]
-[<img style="height="32" width="32" allign="left""  src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />
+[<img height="32" width="32" allign="left"  src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />
 ][Medium]
  
 <br />
