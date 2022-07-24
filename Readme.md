@@ -3,6 +3,7 @@
   margin-right: auto;
   width: 50%;">
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 <br/>
