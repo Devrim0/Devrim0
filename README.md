@@ -1,9 +1,6 @@
 # Hi There, I am Devrim 👋
 
-<img src="https://c.tenor.com/P3pabwWIw54AAAAC/hustle-simpsons.gif" atylw="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width="%25" align="left">
+<img src="https://c.tenor.com/P3pabwWIw54AAAAC/hustle-simpsons.gif" width="%25" align="left">
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Devrim0&show_icons=true&theme=synthwave"/>
