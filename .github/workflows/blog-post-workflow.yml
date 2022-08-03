@@ -1,18 +1,17 @@
-name: Latest stack overflow activity
+name: Latest blog post workflow
 on:
-  schedule:
-    # Runs every 5 minutes
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
-  
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+
 jobs:
-  update-readme-with-medium:
-    name: Update this repo's README with latest activity from medium
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: blog-devrimozcay/blog-post-workflow@v1
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "MEDIUM"
-          commit_message: "Updated readme with the latest medium data"
           feed_list: "https://blog-devrimozcay.medium.com/feed"
